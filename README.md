@@ -1,0 +1,1 @@
+# cryptohero-share-token
